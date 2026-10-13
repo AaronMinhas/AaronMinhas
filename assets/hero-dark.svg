@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 106" role="img" aria-label="Aaron Minhas. Final-year software engineering student in Sydney, focused on infrastructure and reliability. I run a homelab, self-host what I can, and I'm learning infrastructure-as-code and cloud.">
+  <defs>
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="120" y2="0">
+      <stop offset="0" stop-color="#e8e8e8"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#e8e8e8"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-126 0" to="241 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M0.5 106V8.5a8 8 0 0 1 8 -8H871.5a8 8 0 0 1 8 8V106" fill="#0f0f0f" stroke="#252525"/>
+  <g font-family='"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>
+    <text x="24" y="40" font-size="26" font-weight="600" fill="url(#sweep)">Aaron Minhas</text>
+    <text x="24" y="68" font-size="13.5" fill="#9c9c9c">Final-year software engineering student in Sydney, focused on infrastructure and reliability.</text>
+    <text x="24" y="89" font-size="13.5" fill="#9c9c9c">I run a homelab, self-host what I can, and I&#8217;m learning infrastructure-as-code and cloud.</text>
+  </g>
+</svg>

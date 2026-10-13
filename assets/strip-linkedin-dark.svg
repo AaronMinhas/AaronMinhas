@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 46" role="img" aria-label="linkedin">
+  <path d="M0 0H109V46H0Z" fill="#0f0f0f"/>
+  <path d="M0 45.5H109" fill="none" stroke="#252525"/>
+  <text x="10" y="24" font-family='"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace' font-size="12.5" font-weight="500" fill="#e8e8e8">linkedin ↗</text>
+</svg>

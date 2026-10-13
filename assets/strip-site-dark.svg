@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 46" role="img" aria-label="aaronminhas.com">
+  <path d="M0 0V38a8 8 0 0 0 8 8H176V0Z" fill="#0f0f0f"/>
+  <path d="M0.5 0V37.5a8 8 0 0 0 8 8H176" fill="none" stroke="#252525"/>
+  <text x="24" y="24" font-family='"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace' font-size="12.5" font-weight="500" fill="#7aa2f7">aaronminhas.com ↗</text>
+</svg>

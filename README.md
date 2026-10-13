@@ -1,6 +1,1 @@
-Hello I am Aaron :)
-
-<!---
-AaronMinhas/AaronMinhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" align="top" alt="Aaron Minhas. Final-year software engineering student in Sydney, focused on infrastructure and reliability. I run a homelab, self-host what I can, and I'm learning infrastructure-as-code and cloud."></picture><br><a href="https://aaronminhas.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/strip-site-dark.svg"><img src="assets/strip-site-light.svg" width="20.000%" align="top" alt="aaronminhas.com"></picture></a><a href="mailto:contact@aaronminhas.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/strip-email-dark.svg"><img src="assets/strip-email-light.svg" width="9.886%" align="top" alt="email"></picture></a><a href="https://linkedin.com/in/aaronminhas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/strip-linkedin-dark.svg"><img src="assets/strip-linkedin-light.svg" width="12.386%" align="top" alt="linkedin"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/strip-end-dark.svg"><img src="assets/strip-end-light.svg" width="57.677%" align="top" alt=""></picture></p>

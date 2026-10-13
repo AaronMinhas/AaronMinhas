@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 46" role="img" aria-label="email">
+  <path d="M0 0H87V46H0Z" fill="#0f0f0f"/>
+  <path d="M0 45.5H87" fill="none" stroke="#252525"/>
+  <text x="10" y="24" font-family='"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace' font-size="12.5" font-weight="500" fill="#e8e8e8">email ↗</text>
+</svg>
